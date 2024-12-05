@@ -1,40 +1,37 @@
-# Obenseuer Modding Github Community
+# Obenseuer Modding GitHub Community
 
-This is the Obenseuer Github Community Repository. We have a selection of packages that have either been dedicated to the community or have permissive licenses and have been abandoned.
+Welcome to the Obenseuer Modding GitHub Community Repository. Here, we host a collection of packages that have been either dedicated to our community or are under permissive licenses and have been left unmaintained.
+
+## Our Goal
+
+Our goal is to create a collaborative space for community-dedicated packages, allowing any member or external collaborator to contribute to the maintenance and development of mods for the game Obenseuer.
+
+### Why is This Important?
+
+While this may not seem crucial now, it will become increasingly important as Obenseuer gains traction on modding platforms like Nexusmods, Curse, or Thunderstore. Without a centralized system, maintaining another user's package can be challenging. Our team at the Modding GitHub has expertise in developing CI-based publishing scripts that enable multiple users to share responsibilities and publish under a unified namespace on Thunderstore. We aim to extend this capability to other platforms chosen by the community. This approach ensures continuity by allowing packages to retain their original names even when changing maintainers, minimizing disruptions and preventing users from having to search for replacement versions of outdated mods.
 
 ## How to Contribute
 
 ### As an External Contributor
-Anyone can fork an existing github repository and submit changes as a pull request upstream, so simply follow the procedure for doing so against an existing project in the community repo to contribute.
+
+Anyone can fork an existing GitHub repository and submit changes as a pull request upstream. Simply follow the procedure for doing so against an existing project in the community repo to contribute.
 
 ### As an Internal Maintainer or Publisher
 
-If you'd like to do _more_ for your community and you've already established yourself as a Modder then you may speak with any of the Org Members below to apply for greater permissions within the organization
+If you'd like to do more for your community and you've already established yourself as a modder, you may speak with any of the Org Members below to apply for greater permissions within the organization:
 
 - Robyn
 
 ### Suggesting a Mod for Adoption
 
-If you know of a mod that needs fixing for the current game version and has been abandoned by its original author then get in contact with an Org Leader above and have it added to the Community Repo where you may fork and maintain it for the newest version. Only suggestions with a commitment to maintain will be considered, please do not suggest a mod if you are not willing to update it for the current game version.
+If you know of a mod that needs fixing for the current game version and has been abandoned by its original author, get in contact with an Org Leader above to have it added to the Community Repo. You may then fork and maintain it for the newest version. Only suggestions with a commitment to maintain will be considered; please do not suggest a mod if you are not willing to update it for the current game version.
 
 ## Community Standards
 
 ### Code of Conduct
 
-All members and contributers to this Community Repository are expected to follow the Code of Conduct as outlined on every repository.
+All members and contributors to this Community Repository are expected to follow the Code of Conduct as outlined in every repository.
 
 ### Contributions, Licensing, Legal Considerations
 
-All commits are assumed to be made by individuals, please do not make commits or contributions on behalf of a corperation or other legal entity.
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+All commits are assumed to be made by individuals. Please do not make commits or contributions on behalf of a corporation or other legal entity.
