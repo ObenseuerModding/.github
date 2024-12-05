@@ -2,6 +2,17 @@
 
 Welcome to the Obenseuer Modding GitHub Community Repository. Here, we host a collection of packages that have been either dedicated to our community or are under permissive licenses and have been left unmaintained.
 
+- [Our Goal](#our-goal)
+  - [Why is This Important?](#why-is-this-important)
+- [How to Contribute](#how-to-contribute)
+  - [As an External Contributor](#as-an-external-contributor)
+  - [As an Internal Maintainer or Publisher](#as-an-internal-maintainer-or-publisher)
+  - [Suggesting a Mod for Adoption](#suggesting-a-mod-for-adoption)
+- [Getting Started as a Modder](#getting-started-as-a-modder)
+- [Community Standards](#community-standards)
+  - [Code of Conduct](#code-of-conduct)
+  - [Contributions, Licensing, Legal Considerations](#contributions-licensing-legal-considerations)
+
 ## Our Goal
 
 Our goal is to create a collaborative space for community-dedicated packages, allowing any member or external collaborator to contribute to the maintenance and development of mods for the game Obenseuer.
@@ -25,6 +36,13 @@ If you'd like to do more for your community and you've already established yours
 ### Suggesting a Mod for Adoption
 
 If you know of a mod that needs fixing for the current game version and has been abandoned by its original author, get in contact with an Org Leader above to have it added to the Community Repo. You may then fork and maintain it for the newest version. Only suggestions with a commitment to maintain will be considered; please do not suggest a mod if you are not willing to update it for the current game version.
+
+## Getting Started as a Modder
+
+We have prepared several template repositories complete with instructions on how to use them to get started modding with either BepInEx (Recommended) or OSLoader (WIP)
+
+- [BepInEx Template](https://github.com/ObenseuerModding/BepInExModTemplate)
+- [OSLoader Template](https://github.com/ObenseuerModding/OSLoaderTemplateMod)
 
 ## Community Standards
 
